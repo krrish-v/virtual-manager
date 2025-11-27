@@ -1,4 +1,4 @@
-# INOSEC - Virtual-Manager-0.0.2
+# Virtual-Manager
 
 This program is fully created on python language so python is necessary if you want to use it,
 
